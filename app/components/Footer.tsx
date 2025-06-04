@@ -11,7 +11,7 @@ export default function Footer() {
               <Code className="h-6 w-6 text-violet-500" />
               <span className="text-xl font-bold text-white">CodeClass</span>
             </div>
-            <p className="text-sm text-zinc-400">Enseñando programación de manera efectiva desde 2018.</p>
+            <p className="text-sm text-zinc-400">Enseñando programación de manera efectiva desde 2024.</p>
           </div>
           <div className="flex flex-col gap-2 md:flex-row md:gap-4">
             <Link href="#cursos" className="text-sm text-zinc-400 hover:text-violet-400">
